@@ -1,0 +1,15 @@
+.bg-grey {
+    background: #EEF1F4;
+}
+.btn-research_locale {
+    display: flex;
+    select {
+        border-right: none;
+        border-radius: 10px 0 0 10px;
+    }
+
+    button {
+        border-left: none;
+        border-radius: 0 10px 10px 0;
+    }
+}
